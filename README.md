@@ -58,7 +58,7 @@
 ```
 
 
-<h1 align="center">I'm <a href="https://github.com/ShaCode256">shaCode256 (Shavit)<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1> align="center">I'm <a href="https://github.com/ShaCode256">shaCode256 (Shavit)<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ----
 Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
