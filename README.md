@@ -83,8 +83,7 @@ P.S:
 ![lf2](https://i.pinimg.com/originals/cf/64/dd/cf64dd5940a8d65398f57cedee60e4b6.jpg)
 
   
-  
-```
+
 ----
 Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
