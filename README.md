@@ -55,7 +55,6 @@
 ![Shavit's github stats](https://github-readme-stats.vercel.app/api?username=ShaCode256&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaCode256&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-```
 
 <h1> align="center">I'm <a href="https://github.com/ShaCode256">shaCode256 (Shavit)<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
@@ -65,6 +64,8 @@ P.S:
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fphanirajgamer%2Flittle-fighter-2%2F&psig=AOvVaw2xC9Dw5ysSqxOddScwd0Pi&ust=1649983353630000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjgv5WpkvcCFQAAAAAdAAAAABAH" height="230"/>
 
   
+  
+```
 ----
 Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
