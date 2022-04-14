@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning more about algorithms and code design, to get better everyday
 - 💬 Talk to me about bugs, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: She/Her
-- ❤️ I love old games, such as Little Fighter 2, Golden Axe, RayMan, Dave.
+- ❤️ I love old games, such as Little Fighter 2
 - ⚡ Fun facts: 日本語を学びたい and my first coding was giving Firzen from LF2 more running speed.
 
 ### Languages and Tools 🛠 
