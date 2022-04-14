@@ -77,9 +77,6 @@
   
   
   
-P.S:
-
-![kpop](http://www.quickmeme.com/img/4d/4df797509fa35c49cdbc45f4b1aceda16e8e1e931900e67788e709ffea99f440.jpg)
 
   
 
