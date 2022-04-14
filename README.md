@@ -7,15 +7,6 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### 🤵 About Me:
-- 🏦 I'm currently looking for a new Backend | Fullstack Junior role, and pursuing my B.Sc in Computer Science and Mathematics
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.cs```
-- 🌱 I’m currently learning more about algorithms and code design, to get better everyday
-- 💬 Talk to me about bugs, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: She/Her
-- ❤️ I love old games, such as Little Fighter 2
-- ⚡ Fun facts: 日本語を学びたい and my first coding was giving Firzen from LF2 more running speed.
 
 ### Languages and Tools 🛠 
 
