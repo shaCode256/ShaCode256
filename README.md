@@ -57,14 +57,14 @@
 
 ```
 
-
 <h1> align="center">I'm <a href="https://github.com/ShaCode256">shaCode256 (Shavit)<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-
-----
-Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 P.S:
   <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fm.quickmeme.com%2Fimg%2F4d%2F4df797509fa35c49cdbc45f4b1aceda16e8e1e931900e67788e709ffea99f440.jpg&imgrefurl=http%3A%2F%2Fwww.quickmeme.com%2Fmeme%2F36kgyd&tbnid=SVyjn1CX901MGM&vet=12ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ..i&docid=Rpci-__51NlOTM&w=407&h=405&q=i%20liked%20kpop%20before%20it%20was%20cool&ved=2ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ" height="230"/>
 
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fphanirajgamer%2Flittle-fighter-2%2F&psig=AOvVaw2xC9Dw5ysSqxOddScwd0Pi&ust=1649983353630000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjgv5WpkvcCFQAAAAAdAAAAABAH" height="230"/>
+
+  
+----
+Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
