@@ -85,5 +85,7 @@ P.S:
   
 
 ----
-Thank you: [Apoorv Tyagi](https://github.com/ApoorvTyagi) and [durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+Thank you's: 
+![Apoorv Tyagi](https://github.com/ApoorvTyagi)
+![durgeshsamariya] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
