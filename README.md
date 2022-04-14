@@ -56,12 +56,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaCode256&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1> align="center">I'm <a href="https://github.com/ShaCode256">shaCode256 (Shavit)<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-
 P.S:
-  <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fm.quickmeme.com%2Fimg%2F4d%2F4df797509fa35c49cdbc45f4b1aceda16e8e1e931900e67788e709ffea99f440.jpg&imgrefurl=http%3A%2F%2Fwww.quickmeme.com%2Fmeme%2F36kgyd&tbnid=SVyjn1CX901MGM&vet=12ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ..i&docid=Rpci-__51NlOTM&w=407&h=405&q=i%20liked%20kpop%20before%20it%20was%20cool&ved=2ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ" height="230"/>
+  ![kpop]("https://www.google.com/imgres?imgurl=http%3A%2F%2Fm.quickmeme.com%2Fimg%2F4d%2F4df797509fa35c49cdbc45f4b1aceda16e8e1e931900e67788e709ffea99f440.jpg&imgrefurl=http%3A%2F%2Fwww.quickmeme.com%2Fmeme%2F36kgyd&tbnid=SVyjn1CX901MGM&vet=12ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ..i&docid=Rpci-__51NlOTM&w=407&h=405&q=i%20liked%20kpop%20before%20it%20was%20cool&ved=2ahUKEwjg0O65qJL3AhVPKxoKHcULCYAQMygAegUIARCQAQ")
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fphanirajgamer%2Flittle-fighter-2%2F&psig=AOvVaw2xC9Dw5ysSqxOddScwd0Pi&ust=1649983353630000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjgv5WpkvcCFQAAAAAdAAAAABAH" height="230"/>
+![lf2]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fphanirajgamer%2Flittle-fighter-2%2F&psig=AOvVaw2xC9Dw5ysSqxOddScwd0Pi&ust=1649983353630000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjgv5WpkvcCFQAAAAAdAAAAABAH")
 
   
   
