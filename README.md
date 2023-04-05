@@ -8,7 +8,7 @@
 
 
 ### 🤵 About Me:
-- 🤔 I use daily ```.java```,``` .py```, ```.cs``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```.js```,```.ts```,```.java```,``` .py```, ```.cs``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning more about algorithms and code design, to get better everyday
 - 💬 Talk to me about bugs, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: She/Her
